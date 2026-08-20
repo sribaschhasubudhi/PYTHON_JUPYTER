@@ -1,0 +1,7 @@
+name    class   marks
+abdul   4   36
+ramu    7   54
+rekha   9   71
+shyam   8   50
+vinay   5   15
+sunil   10  70

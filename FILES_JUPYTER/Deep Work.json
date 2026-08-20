@@ -1,0 +1,15 @@
+{
+    "Book":{
+        "0":"Deep Work"
+    },
+    "Author":{
+        "0":"Cal Newport"
+    },
+    "Details":{
+        "0":{
+            "pages":304,
+            "cover type":"Papertype",
+            "ISBN":9781455586691
+        }
+    }
+}

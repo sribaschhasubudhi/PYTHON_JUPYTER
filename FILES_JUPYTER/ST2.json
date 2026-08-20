@@ -1,0 +1,9 @@
+{
+  "columns": ["A", "B", "C"],
+  "index": [0, 1, 2],
+  "data": [
+    ["John", "Bill", "Walton"],
+    ["Adam", "Jane", "Isabel"],
+    ["Rick", "Kenny", "Lili"]
+  ]
+}
